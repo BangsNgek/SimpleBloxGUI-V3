@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dumper": "Ara_blox-dumper 3.6",
-    "roblox_version": "version-02c37bc51a384b8f",
-    "total_offsets": 321
+    "roblox_version": "version-360298f2a8bd4691",
+    "total_offsets": 322
   },
   "offsets": {
     "AirProperties": {
@@ -58,8 +58,8 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 140438248,
-      "MapStart": 140438240
+      "MapEnd": 140434296,
+      "MapStart": 140434288
     },
     "DataModel": {
       "CreatorId": 376,
@@ -74,7 +74,7 @@
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 146098560,
+      "Pointer": 146094464,
       "RealDataModel": 504
     },
     "FileMeshData": {
@@ -86,24 +86,24 @@
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 51978352
+      "FireProximityPrompt": 51978304
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 22598560,
-      "Destroy": 22598592,
-      "FindPartOnRay": 14745056,
-      "FindPartOnRayWithIgnoreList": 14745184,
-      "FindPartOnRayWithWhitelist": 14745328,
-      "FireServer": 12419712,
-      "Print": 30600880,
-      "RaisePropertyChanged": 15473462,
-      "Raycast": 14709936,
-      "SetParent": 14687104,
-      "SetParentInternal": 30895888,
-      "Shapecast": 14716528
+      "Clone": 22598544,
+      "Destroy": 22598576,
+      "FindPartOnRay": 14745024,
+      "FindPartOnRayWithIgnoreList": 14745152,
+      "FindPartOnRayWithWhitelist": 14745296,
+      "FireServer": 12419680,
+      "Print": 30600864,
+      "RaisePropertyChanged": 30765392,
+      "Raycast": 14709904,
+      "SetParent": 14687072,
+      "SetParentInternal": 30895872,
+      "Shapecast": 14716496
     },
     "GuiBase2D": {
       "AbsolutePosition": 248,
@@ -134,7 +134,8 @@
     },
     "Highlight": {
       "Adornee": 168,
-      "DepthMode": 48,
+      "DepthMode": 208,
+      "Enabled": 216,
       "FillColor": 184,
       "FillTransparency": 212,
       "OutlineColor": 196,
@@ -343,7 +344,7 @@
       "JobEnd": 208,
       "JobName": 24,
       "JobStart": 200,
-      "Pointer": 145748640
+      "Pointer": 145744544
     },
     "Team": {
       "TeamColor": 168
@@ -388,8 +389,8 @@
       "Text": 2952,
       "TextColor3": 3744,
       "TextDirection": 3392,
-      "TextScaled": 6,
-      "TextSize": 3420,
+      "TextScaled": 3478,
+      "TextSize": 3780,
       "TextStrokeColor3": 3756,
       "TextStrokeTransparency": 3784,
       "TextTransparency": 3788,
@@ -411,7 +412,7 @@
       "Tooltip": 1112
     },
     "Types": {
-      "AllTypes": 145663816
+      "AllTypes": 145659720
     },
     "Value": {
       "Value": 168
@@ -427,7 +428,7 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 140038664,
+      "Pointer": 140034696,
       "RenderView": 3120,
       "ViewMatrix": 432
     },
@@ -439,7 +440,7 @@
     "World": {
       "AirProperties": 576,
       "Gravity": 552,
-      "Primitives": 688,
+      "Primitives": 720,
       "WorldSteps": 1864
     }
   },
