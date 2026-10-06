@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dumper": "Ara_blox-dumper 3.6",
-    "roblox_version": "version-360298f2a8bd4691",
-    "total_offsets": 322
+    "roblox_version": "version-02c37bc51a384b8f",
+    "total_offsets": 321
   },
   "offsets": {
     "AirProperties": {
@@ -33,7 +33,7 @@
       "Threshold": 176
     },
     "CachedItem": {
-      "FileMeshData": 64
+      "FileMeshData": 40
     },
     "Camera": {
       "CFrame": 200,
@@ -58,8 +58,8 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 140434296,
-      "MapStart": 140434288
+      "MapEnd": 140438248,
+      "MapStart": 140438240
     },
     "DataModel": {
       "CreatorId": 376,
@@ -74,7 +74,7 @@
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 146094464,
+      "Pointer": 146098560,
       "RealDataModel": 504
     },
     "FileMeshData": {
@@ -86,24 +86,23 @@
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 51978304
+      "FireProximityPrompt": 51978352
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 22598544,
-      "Destroy": 22598576,
-      "FindPartOnRay": 14745024,
-      "FindPartOnRayWithIgnoreList": 14745152,
-      "FindPartOnRayWithWhitelist": 14745296,
-      "FireServer": 12419680,
-      "Print": 30600864,
-      "RaisePropertyChanged": 30765392,
-      "Raycast": 14709904,
-      "SetParent": 14687072,
-      "SetParentInternal": 30895872,
-      "Shapecast": 14716496
+      "Clone": 22598560,
+      "Destroy": 22598592,
+      "FindPartOnRay": 14745056,
+      "FindPartOnRayWithIgnoreList": 14745184,
+      "FindPartOnRayWithWhitelist": 14745328,
+      "FireServer": 12419712,
+      "Print": 30600880,
+      "RaisePropertyChanged": 30765408,
+      "Raycast": 14709936,
+      "SetParentInternal": 30895888,
+      "Shapecast": 14716528
     },
     "GuiBase2D": {
       "AbsolutePosition": 248,
@@ -217,7 +216,7 @@
       "MemEnforcedLRUCache": 32
     },
     "LruNode": {
-      "CachedItem": 64,
+      "CachedItem": 56,
       "MeshId": 16,
       "Next": 0
     },
@@ -342,9 +341,9 @@
     },
     "TaskScheduler": {
       "JobEnd": 208,
-      "JobName": 24,
+      "JobName": 1376,
       "JobStart": 200,
-      "Pointer": 145744544
+      "Pointer": 145748640
     },
     "Team": {
       "TeamColor": 168
@@ -389,7 +388,7 @@
       "Text": 2952,
       "TextColor3": 3744,
       "TextDirection": 3392,
-      "TextScaled": 3478,
+      "TextScaled": 2929,
       "TextSize": 3780,
       "TextStrokeColor3": 3756,
       "TextStrokeTransparency": 3784,
@@ -412,7 +411,7 @@
       "Tooltip": 1112
     },
     "Types": {
-      "AllTypes": 145659720
+      "AllTypes": 145663816
     },
     "Value": {
       "Value": 168
@@ -428,7 +427,7 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 140034696,
+      "Pointer": 140038664,
       "RenderView": 3120,
       "ViewMatrix": 432
     },
