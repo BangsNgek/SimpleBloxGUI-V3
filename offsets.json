@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dumper": "Ara_blox-dumper 3.6",
-    "roblox_version": "version-7a0c6d10fcb34a2c",
-    "total_offsets": 322
+    "roblox_version": "version-11f155f3450f4c8e",
+    "total_offsets": 320
   },
   "offsets": {
     "AirProperties": {
@@ -58,8 +58,8 @@
       "PropertyDescriptors": 64
     },
     "Creator": {
-      "MapEnd": 140320000,
-      "MapStart": 140319992
+      "MapEnd": 140328704,
+      "MapStart": 140328696
     },
     "DataModel": {
       "CreatorId": 376,
@@ -74,7 +74,7 @@
       "Name": 8
     },
     "FakeDataModel": {
-      "Pointer": 148659456,
+      "Pointer": 148668416,
       "RealDataModel": 504
     },
     "FileMeshData": {
@@ -86,24 +86,24 @@
       "VerticesEnd": 8
     },
     "Fire": {
-      "FireProximityPrompt": 51183456
+      "FireProximityPrompt": 51189536
     },
     "FunctionDescriptor": {
       "Function": 128
     },
     "Functions": {
-      "Clone": 18446606214236416216,
-      "Destroy": 18446606214236416248,
-      "FindPartOnRay": 18446606214236869368,
-      "FindPartOnRayWithIgnoreList": 18446606214236869496,
-      "FindPartOnRayWithWhitelist": 18446606214236869592,
-      "FireServer": 18446606214237518104,
-      "Print": 30294352,
-      "RaisePropertyChanged": 14795264,
-      "Raycast": 18446606214236868664,
-      "SetParent": 13853029,
-      "SetParentInternal": 30608352,
-      "Shapecast": 18446606214236868824
+      "Clone": 18446605454915872888,
+      "Destroy": 18446605454915872920,
+      "FindPartOnRay": 18446605454916915864,
+      "FindPartOnRayWithIgnoreList": 18446605454916915992,
+      "FindPartOnRayWithWhitelist": 18446605454916916088,
+      "FireServer": 18446605454915401912,
+      "Print": 30300400,
+      "RaisePropertyChanged": 14795424,
+      "Raycast": 18446605454916915160,
+      "SetParent": 13853104,
+      "SetParentInternal": 30614400,
+      "Shapecast": 18446605454916915320
     },
     "GuiBase2D": {
       "AbsolutePosition": 248,
@@ -222,27 +222,27 @@
       "Next": 0
     },
     "MaterialColors": {
-      "Asphalt": 48,
-      "Basalt": 39,
-      "Brick": 15,
-      "Cobblestone": 51,
-      "Concrete": 12,
-      "CrackedLava": 45,
-      "Glacier": 27,
-      "Grass": 6,
-      "Ground": 42,
-      "Ice": 54,
-      "LeafyGrass": 57,
-      "Limestone": 63,
-      "Mud": 36,
-      "Pavement": 66,
-      "Rock": 24,
-      "Salt": 60,
-      "Sand": 18,
-      "Sandstone": 33,
-      "Slate": 9,
-      "Snow": 30,
-      "WoodPlanks": 21
+      "Asphalt": 144,
+      "Basalt": 135,
+      "Brick": 111,
+      "Cobblestone": 147,
+      "Concrete": 108,
+      "CrackedLava": 141,
+      "Glacier": 123,
+      "Grass": 102,
+      "Ground": 138,
+      "Ice": 150,
+      "LeafyGrass": 153,
+      "Limestone": 159,
+      "Mud": 132,
+      "Pavement": 162,
+      "Rock": 120,
+      "Salt": 156,
+      "Sand": 114,
+      "Sandstone": 129,
+      "Slate": 105,
+      "Snow": 126,
+      "WoodPlanks": 117
     },
     "MemEnforcedLRUCache": {
       "Head": 8
@@ -257,9 +257,6 @@
     "Model": {
       "PrimaryPart": 584,
       "Scale": 308
-    },
-    "ModuleScript": {
-      "IsRobloxScript": 344
     },
     "MouseService": {
       "InputObject": 240
@@ -279,8 +276,8 @@
       "LocalPlayer": 288
     },
     "Primitive": {
-      "AssemblyAngularVelocity": 236,
-      "AssemblyLinearVelocity": 224,
+      "AssemblyAngularVelocity": 92,
+      "AssemblyLinearVelocity": 80,
       "CFrame": 176,
       "Material": 590,
       "Orientation": 176,
@@ -314,9 +311,6 @@
       "LightingValid": 632,
       "SkyboxValid": 653
     },
-    "ScriptContext": {
-      "RequireBypass": 2689
-    },
     "Seat": {
       "Occupant": 520
     },
@@ -344,14 +338,14 @@
       "JobEnd": 208,
       "JobName": 24,
       "JobStart": 200,
-      "Pointer": 148303944
+      "Pointer": 148312904
     },
     "Team": {
       "TeamColor": 168
     },
     "Terrain": {
       "GrassLength": 480,
-      "MaterialColors": 1192,
+      "MaterialColors": 640,
       "WaterColor": 464,
       "WaterReflectance": 488,
       "WaterTransparency": 492,
@@ -389,7 +383,7 @@
       "Text": 2976,
       "TextColor3": 3768,
       "TextDirection": 3416,
-      "TextScaled": 3502,
+      "TextScaled": 2953,
       "TextSize": 3804,
       "TextStrokeColor3": 3780,
       "TextStrokeTransparency": 3808,
@@ -412,7 +406,7 @@
       "Tooltip": 1112
     },
     "Types": {
-      "AllTypes": 148219016
+      "AllTypes": 148227976
     },
     "Value": {
       "Value": 168
@@ -428,7 +422,7 @@
     "VisualEngine": {
       "Dimensions": 2832,
       "FakeDataModel": 2800,
-      "Pointer": 142909616,
+      "Pointer": 142918368,
       "RenderView": 3128,
       "ViewMatrix": 432
     },
